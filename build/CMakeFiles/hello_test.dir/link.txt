@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/hello_test.dir/useHello.cpp.o  -o hello_test libhello.so -Wl,-rpath,/home/yuzhenning/vslam_course/pa1/hello/hello_test/build 
